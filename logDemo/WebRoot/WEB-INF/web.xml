@@ -7,7 +7,7 @@
   <display-name></display-name>
   <servlet>
     <servlet-name>LogServlet</servlet-name>
-    <servlet-class>cn.tedu.LogServlet</servlet-class>
+    <servlet-class>cn.test.LogServlet</servlet-class>
   </servlet>
 
   <servlet-mapping>
